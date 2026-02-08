@@ -9,9 +9,6 @@ import RequestForm from "./Pages/RequestForm";
 import Reviews from "./components/Reviews";
 import ChangeMode from "./components/ChangeMode";
 
-
-// import Hero from "./components/Hero";
-
 function App() {
   return (
     <HashRouter>
